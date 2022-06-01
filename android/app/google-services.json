@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "653816515347",
+    "project_id": "cardmanage-12397",
+    "storage_bucket": "cardmanage-12397.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653816515347:android:22a5cfcd54bb46fb78a8e6",
+        "android_client_info": {
+          "package_name": "com.example.card_bd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653816515347-47ensv9hulprnr7mo9d3h0628e29e17s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKQo-N-mwPzTR3thEnqdBcrrFBs1DCmqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653816515347-47ensv9hulprnr7mo9d3h0628e29e17s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
